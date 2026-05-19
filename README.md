@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/28016000/README.md)
 # Caro AI - Minimax / Alpha-Beta
 
 Dự án này xây dựng chương trình **chơi cờ Caro giữa người chơi và máy tính** bằng Python. Người chơi dùng quân **X**, máy tính dùng quân **O**. AI có thể lựa chọn nước đi bằng hai thuật toán: **Minimax** và **Alpha-Beta pruning**. Chương trình có giao diện đơn giản bằng **Tkinter** và chạy trực tiếp bằng Python.
@@ -151,7 +150,7 @@ Nếu chương trình chạy đúng, kết quả sẽ báo `passed` hoặc `All 
 
 ## 7\. Chạy benchmark Level 3
 
-Để đáp ứng yêu cầu phân tích thực nghiệm, project có file `benchmark\\\\\\\_caro.py` dùng để so sánh Minimax và Alpha-Beta trên nhiều trạng thái bàn cờ khác nhau.
+Để đáp ứng yêu cầu phân tích thực nghiệm, project có file `benchmark\_caro.py` dùng để so sánh Minimax và Alpha-Beta trên nhiều trạng thái bàn cờ khác nhau.
 
 Chạy benchmark bằng lệnh:
 

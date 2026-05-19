@@ -1,0 +1,37 @@
+﻿state,depth,algorithm,move,score,nodes,time_seconds,timed_out,same_move_as_other,ab_reduction_percent
+Đầu ván,1,minimax,"(5, 5)",273.8,2,0.000256,False,True,
+Đầu ván,1,alphabeta,"(5, 5)",273.8,2,0.000249,False,True,0.0
+Đầu ván,2,minimax,"(5, 5)",-45.5,10,0.002537,False,True,
+Đầu ván,2,alphabeta,"(5, 5)",-45.5,10,0.003645,False,True,0.0
+Đầu ván,3,minimax,"(5, 5)",898.8,98,0.026882,False,True,
+Đầu ván,3,alphabeta,"(5, 5)",898.8,29,0.006629,False,True,70.41
+Giữa ván,1,minimax,"(2, 4)",1000000000,19,0.005327,False,True,
+Giữa ván,1,alphabeta,"(2, 4)",1000000000,19,0.004934,False,True,0.0
+Giữa ván,2,minimax,"(2, 4)",1000000000,307,0.081774,False,True,
+Giữa ván,2,alphabeta,"(2, 4)",1000000000,35,0.012818,False,True,88.6
+Giữa ván,3,minimax,"(2, 4)",1000000000,4951,1.257175,False,True,
+Giữa ván,3,alphabeta,"(2, 4)",1000000000,323,0.088117,False,True,93.48
+AI có thể thắng ngay,1,minimax,"(4, 5)",1000000000,17,0.003603,False,True,
+AI có thể thắng ngay,1,alphabeta,"(4, 5)",1000000000,17,0.003623,False,True,0.0
+AI có thể thắng ngay,2,minimax,"(4, 5)",1000000000,265,0.067991,False,True,
+AI có thể thắng ngay,2,alphabeta,"(4, 5)",1000000000,31,0.008219,False,True,88.3
+AI có thể thắng ngay,3,minimax,"(4, 5)",1000000000,4719,1.167594,False,True,
+AI có thể thắng ngay,3,alphabeta,"(4, 5)",1000000000,283,0.07109,False,True,94.0
+Human sắp thắng - AI cần chặn,1,minimax,"(5, 2)",-43.9,17,0.004183,False,True,
+Human sắp thắng - AI cần chặn,1,alphabeta,"(5, 2)",-43.9,17,0.004696,False,True,0.0
+Human sắp thắng - AI cần chặn,2,minimax,"(5, 2)",-2180.5,300,0.076665,False,True,
+Human sắp thắng - AI cần chặn,2,alphabeta,"(5, 2)",-2180.5,50,0.011526,False,True,83.33
+Human sắp thắng - AI cần chặn,3,minimax,"(5, 2)",-413.1,5114,1.40088,False,True,
+Human sắp thắng - AI cần chặn,3,alphabeta,"(5, 2)",-413.1,85,0.022209,False,True,98.34
+Hai bên đều có cơ hội tấn công,1,minimax,"(2, 2)",1000000000,19,0.005517,False,True,
+Hai bên đều có cơ hội tấn công,1,alphabeta,"(2, 2)",1000000000,19,0.005089,False,True,0.0
+Hai bên đều có cơ hội tấn công,2,minimax,"(2, 2)",1000000000,307,0.076379,False,True,
+Hai bên đều có cơ hội tấn công,2,alphabeta,"(2, 2)",1000000000,35,0.015113,False,True,88.6
+Hai bên đều có cơ hội tấn công,3,minimax,"(2, 2)",1000000000,4951,1.250889,False,True,
+Hai bên đều có cơ hội tấn công,3,alphabeta,"(2, 2)",1000000000,323,0.090761,False,True,93.48
+Nhiều nhánh hợp lệ,1,minimax,"(7, 6)",1000000000,19,0.004429,False,True,
+Nhiều nhánh hợp lệ,1,alphabeta,"(7, 6)",1000000000,19,0.00555,False,True,0.0
+Nhiều nhánh hợp lệ,2,minimax,"(7, 6)",1000000000,307,0.088854,False,True,
+Nhiều nhánh hợp lệ,2,alphabeta,"(7, 6)",1000000000,35,0.014662,False,True,88.6
+Nhiều nhánh hợp lệ,3,minimax,"(7, 6)",1000000000,5491,1.495243,False,True,
+Nhiều nhánh hợp lệ,3,alphabeta,"(7, 6)",1000000000,323,0.100438,False,True,94.12
