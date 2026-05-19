@@ -77,7 +77,7 @@ Mở Command Prompt, PowerShell hoặc Terminal tại thư mục gốc của pro
 python source_code/carogame.py
 ```
 
-Sau khi chạy đúng, cửa sổ game sẽ xuất hiện. Ảnh minh họa giao diện ban đầu:
+Sau khi chạy đúng, cửa sổ game sẽ xuất hiện. Ảnh minh họa phần menu sẽ xuất hiện:
 
 <p align="center">
   <img src="23021337_23021307_CaroAI/assets/menu_board.jpg" width="760" alt="Giao diện ban đầu của game Caro AI">
