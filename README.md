@@ -80,7 +80,7 @@ python source_code/carogame.py
 Sau khi chạy đúng, cửa sổ game sẽ xuất hiện. Ảnh minh họa giao diện ban đầu:
 
 <p align="center">
-  <img src="assets/menu_board.jpg" width="760" alt="Giao diện ban đầu của game Caro AI">
+  <img src="23021337_23021307_CaroAI/assets/menu_board.jpg" width="760" alt="Giao diện ban đầu của game Caro AI">
 </p>
 
 ---
@@ -118,13 +118,13 @@ Cách chơi rất đơn giản: người chơi bấm chuột vào một ô trố
 Minh họa bàn cờ và quân cờ:
 
 <p align="center">
-  <img src="assets/board.jpg" width="420" alt="Bàn cờ Caro">
+  <img src="23021337_23021307_CaroAI/assets/board.jpg" width="420" alt="Bàn cờ Caro">
 </p>
 
 <p align="center">
-  <img src="assets/X.jpg" width="80" alt="Quân X của người chơi">
+  <img src="23021337_23021307_CaroAI/assets/X.jpg" width="80" alt="Quân X của người chơi">
   &nbsp;&nbsp;&nbsp;
-  <img src="assets/O.jpg" width="80" alt="Quân O của AI">
+  <img src="23021337_23021307_CaroAI/assets/O.jpg" width="80" alt="Quân O của AI">
 </p>
 
 ---
@@ -176,7 +176,7 @@ File kết quả gồm các thông tin chính: tên trạng thái kiểm thử, 
 Ảnh minh họa bảng đánh giá thực nghiệm:
 
 <p align="center">
-  <img src="assets/danhgia.jpg" width="760" alt="Bảng đánh giá thực nghiệm Minimax và Alpha-Beta">
+  <img src="23021337_23021307_CaroAI/assets/danhgia.jpg" width="760" alt="Bảng đánh giá thực nghiệm Minimax và Alpha-Beta">
 </p>
 
 ---
