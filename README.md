@@ -31,11 +31,11 @@ Khi nộp hoặc chạy project, nên sắp xếp thư mục như sau. Thư mụ
 ```text
 23021337_23021307_CaroAI/
 ├── assets/
-│   ├── danhgia.png             # Ảnh bảng đánh giá / kết quả so sánh thực nghiệm
-│   ├── menu_board.png          # Ảnh giao diện menu và bàn cờ khi mở game
-│   ├── board.png               # Ảnh minh họa bàn cờ
-│   ├── O.png                   # Ảnh / ký hiệu quân O của AI
-│   └── X.png                   # Ảnh / ký hiệu quân X của người chơi
+│   ├── danhgia.jpg             # Ảnh bảng đánh giá / kết quả so sánh thực nghiệm
+│   ├── menu_board.jpg          # Ảnh giao diện menu và bàn cờ khi mở game
+│   ├── board.jpg               # Ảnh minh họa bàn cờ
+│   ├── O.jpg                   # Ảnh / ký hiệu quân O của AI
+│   └── X.jpg                   # Ảnh / ký hiệu quân X của người chơi
 ├── source_code/
 │   ├── carogame.py             # File chính: giao diện, luật chơi và AI
 │   └── benchmark_caro.py       # Chạy thực nghiệm so sánh Minimax và Alpha-Beta
@@ -118,13 +118,13 @@ Cách chơi rất đơn giản: người chơi bấm chuột vào một ô trố
 Minh họa bàn cờ và quân cờ:
 
 <p align="center">
-  <img src="assets/board.png" width="420" alt="Bàn cờ Caro">
+  <img src="assets/board.jpg" width="420" alt="Bàn cờ Caro">
 </p>
 
 <p align="center">
-  <img src="assets/X.png" width="80" alt="Quân X của người chơi">
+  <img src="assets/X.jpg" width="80" alt="Quân X của người chơi">
   &nbsp;&nbsp;&nbsp;
-  <img src="assets/O.png" width="80" alt="Quân O của AI">
+  <img src="assets/O.jpg" width="80" alt="Quân O của AI">
 </p>
 
 ---
@@ -176,7 +176,7 @@ File kết quả gồm các thông tin chính: tên trạng thái kiểm thử, 
 Ảnh minh họa bảng đánh giá thực nghiệm:
 
 <p align="center">
-  <img src="assets/danhgia.png" width="760" alt="Bảng đánh giá thực nghiệm Minimax và Alpha-Beta">
+  <img src="assets/danhgia.jpg" width="760" alt="Bảng đánh giá thực nghiệm Minimax và Alpha-Beta">
 </p>
 
 ---
