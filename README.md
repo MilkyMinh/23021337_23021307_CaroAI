@@ -80,7 +80,7 @@ python source_code/carogame.py
 Sau khi chạy đúng, cửa sổ game sẽ xuất hiện. Ảnh minh họa giao diện ban đầu:
 
 <p align="center">
-  <img src="assets/menu_board.jpg" width="760" alt="Giao diện ban đầu của game Caro AI">
+  <img src="assets/menu_board.png" width="760" alt="Giao diện ban đầu của game Caro AI">
 </p>
 
 ---
